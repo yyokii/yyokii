@@ -1,5 +1,3 @@
-![](https://komarev.com/ghpvc/?username=yyokii&color=blue)
-
 <h1 align="center">Hi 👋, I'm Yoki</h1>
 
 - 📝 I regularly write articles on [Medium](https://yyokii.medium.com/), [Zenn](https://zenn.dev/yyokii)
